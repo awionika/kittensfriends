@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d32336c8da190dbe4cabda168858151e",
+    "revision": "43ef2d345bd7f7e27584b90d646a3ecf",
     "url": "/kittensfriends/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kittensfriends/static/css/2.eb45ad44.chunk.css"
   },
   {
-    "revision": "3e97520907a00c57f3f4",
+    "revision": "fcc15216056da0fedbe1",
     "url": "/kittensfriends/static/css/main.2803df23.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kittensfriends/static/js/2.363fcbb0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3e97520907a00c57f3f4",
-    "url": "/kittensfriends/static/js/main.363591b5.chunk.js"
+    "revision": "fcc15216056da0fedbe1",
+    "url": "/kittensfriends/static/js/main.1e615812.chunk.js"
   },
   {
     "revision": "5b0d4df0f20014d8b34e",
